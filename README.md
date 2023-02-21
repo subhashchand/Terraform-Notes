@@ -243,3 +243,4 @@ depends_on = [
      ]
 ```
 
+https://github.com/palakbhawsar98/Terraform-Notes
